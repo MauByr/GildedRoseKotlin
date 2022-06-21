@@ -1,7 +1,7 @@
 package com.gildedrose
 
-import org.junit.jupiter.api.Assertions.assertEquals
-import org.junit.jupiter.api.Test
+import org.junit.Test
+import kotlin.test.assertEquals
 
 internal class GildedRoseTest {
 
